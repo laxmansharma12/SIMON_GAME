@@ -53,3 +53,17 @@ h1{
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+button{
+  border-radius: 10px;
+  border-width: 5px;
+ 
+  width: 150px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: larger;
+  font-weight: bold;
+}
+button:hover{
+  background-color:#FEF2BF;
+}
